@@ -1,0 +1,5 @@
+Un repaire recense les diverses activités de l'île (informations sur les
+travaux en cours, statistiques sur la comptabilité des aventuriers, état de
+l'île, ...).
+
+Vous pouvez y accéder à cette adresse http://island.sec-l.org/

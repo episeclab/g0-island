@@ -1,0 +1,46 @@
+body
+{
+    background-color: black;
+    color: white;
+    font-family: Fixed, monospace;
+    font-size: 12px;
+}
+
+#content
+{
+    margin: 0;
+    margin-bottom: 20px;
+    padding: 0;
+}
+
+#menu
+{
+    color: grey;
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    word-spacing: 10px;
+    font-variant: normal;
+    font-weight: bold;
+}
+
+#menu a
+{
+    text-decoration: none;
+}
+
+a
+{
+    color: inherit;
+    text-decoration: underline;
+}
+
+a:hover
+{
+    color: white;
+}
+
+a img
+{
+    border: none;
+}

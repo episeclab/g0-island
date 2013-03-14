@@ -1,0 +1,22 @@
+Au fil des siècles, las de parler aux créatures insignifiantes qui peuplent
+l'île, m1ch3l a perdu l'habitude de parler, et en est réduit à ne répondre
+qu'à un faible nombre de requêtes. Parler couramment le m1ch3l4ng est
+indispensable à votre survie, voici quelques conseils...
+
+Vous pouvez publiquement dialoguer avec m1ch3l (dans le chateau) ou bien en
+privé en chuchotant à son oreille, m1ch3l interprétera différement vos dires
+en fonction du moyen choisi.
+
+M1ch3l détèste les inconnus, avant toute négociation avec lui, vous devez
+vous identifier. Evidemment, cette identification fatigue m1ch3l, qui
+aujourd'hui facture cette transaction 10 kek0s.
+
+  IDENTIFICATION
+  # coût:              10 kek0s
+  # syntaxe:           !identify login password
+  # type:              à l'oreille de m1ch3l
+  # succès:            b1ng0
+  # erreur:            p0il
+
+Le m1ch3l4ng est un langage peu connu, et de nouveaux termes sont découverts
+de jours en jours...
